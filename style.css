@@ -435,6 +435,23 @@ nav .caret {
     float: right;
 }
 
+.service-description{
+    font-size: 20px;
+}
+
+.service-description2{
+    font-size: 17px;
+    font-style: italic;
+}
+
+.service-description3{
+    font-size: 15px;
+}
+
+.portfolio-description{
+    font-size: 20px;
+}
+
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -651,7 +668,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #301B27!important;
 }
 
 .container {
