@@ -410,7 +410,7 @@ a:hover {
         width:100%;
  
     }
-    p{               /*correction*/
+    .col-sm-6 p {               /*correction*/
         padding:50px;
     } 
 }
